@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Web Page with CSS</title>
+	<link rel="stylesheet" type="text/css"href="lab4A.css">
+	</head>
+	<body>
+	<br>
+	<br>
+	<br>
+	<div id="Wrapper">
+		 <div id="one">Home</div>
+		 <div id="two">About Us</div>
+		 <div id="three">Things to do</div>
+		 <div id="four">Map</div>
+		 <div id="five">Contact us</div>
+		 <div id="six">Careers</div>
+</div>
+<br>
+<br>
+		 <div id="main">
+			  <h1>Welcome to my site! (Main)</h1>
+			  <br>
+			  <p><h5>Here you will find some cool stuff!</h5>
+			</div>
+</body>
+</html>
